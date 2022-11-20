@@ -1,0 +1,14 @@
+1	Apr 23, 2019	Avengers: Endgame	 $400,000,000	             $858,373,000	 $2,797,732,053
+2	May 20, 2011	Pirates of the Caribbean: On Stranger Tides	 $379,000,000	 $241,071,802	 $1,045,713,802
+3	Apr 22, 2015	Avengers: Age of Ultron	 $365,000,000	       $459,005,868	 $1,395,316,979
+4	Dec 16, 2015	Star Wars Ep. VII: The Force Awakens	       $306,000,000	 $936,662,225	 $2,064,615,817
+5	Apr 25, 2018	Avengers: Infinity War	 $300,000,000	       $678,815,482	 $2,048,359,754
+6	May 24, 2007	Pirates of the Caribbean: At World’s End	       $300,000,000	 $309,420,425	 $960,996,492
+7	Nov 13, 2017	Justice League	 $300,000,000	             $229,024,295	 $655,945,209
+8	Oct 6, 2015	Spectre	 $300,000,000	 $200,074,175	       $879,077,344
+9	Jul 12, 2023	Mission: Impossible Dead Reckoning Part One	 $290,000,000	 $0	 $0
+10	Dec 18, 2019	Star Wars: The Rise of Skywalker	             $275,000,000	 $515,202,542	 $1,072,767,997
+11	May 23, 2018	Solo: A Star Wars Story	 $275,000,000	       $213,767,512	 $393,151,347
+12	Mar 7, 2012	John Carter	 $263,700,000	 $73,058,679	       $282,778,100
+13	Mar 23, 2016	Batman v Superman: Dawn of Justice	             $263,000,000	 $330,360,194	 $872,395,091
+14	Dec 13, 2017	Star Wars Ep. VIII: The Last Jedi	             $262,000,000	 $620,181,382	 $1,331,635,141
